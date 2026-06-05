@@ -1,27 +1,39 @@
 # Anthony Voirol
 
-18 y/o — CFC Application Development, CPNE Neuchâtel (2nd year).  
-Building web apps, occasionally breaking things, learning as I go.
+**Application Development Apprentice (CFC) · CPNE Neuchâtel**
 
-Currently working on **SimDrive Neuchâtel** — a realistic driving sim set in Neuchâtel to help learner drivers practice before getting behind the wheel. Very early stage.
+Building web apps, tinkering with hardware projects, heading toward cybersecurity.
 
----
-
-**Languages:** C#, PHP, JavaScript, Python, SQL, HTML, CSS  
-**Tools:** Git, GitHub, GitLab, VS Code, Linux, MySQL
+[![Portfolio](https://img.shields.io/badge/voirol.tech-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://voirol.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-v-b03997327)
+[![Email](https://img.shields.io/badge/anthony@voirol.tech-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anthony@voirol.tech)
 
 ---
 
-**A few things I've shipped:**
+## Projects
 
-- [CitySwipe](https://cityswipe.voirol.tech) — group activity picker via real-time swipe voting, no accounts, no friction
-- [Taskly](https://taskly.voirol.tech) — to-do app with auth and MySQL
-- [Next Vacation Calculator](https://vacances.voirol.tech) — Swiss school holidays by canton
-- [Interactive Projection Mapping](https://github.com/AnthonyVoirol/mappingInteractif) — camera + physics engine + projector
-- [Z-Axis Digital](https://z-axis.digital) — web agency co-founded with a classmate
+| Project | Stack | Status |
+|---|---|---|
+| [CitySwipe](https://cityswipe.voirol.tech) | PHP · MySQL · Vanilla JS | Live |
+| [Taskly](https://taskly.voirol.tech) | PHP · MySQL · JS | Live |
+| [Next Vacation Calculator](https://vacances.voirol.tech) | HTML · CSS · JS · JSON | Live |
+| [Z-Axis Digital](https://z-axis.digital) | HTML · CSS · JS | Live |
+| [FuelFinder](https://github.com/AnthonyVoirol/fuelfinder) | Laravel · MySQL · Leaflet.js · PWA | On hold |
+| [Interactive Projection Mapping](https://github.com/AnthonyVoirol/mappingInteractif) | Python · OpenCV · Pymunk · Pygame | Experiment |
+| CFF Brake Calculator | JavaScript · HTML | Tool |
+
+**CitySwipe** — Group activity picker using a real-time swipe-voting system. Multiple users join an ephemeral PIN room, swipe simultaneously, and the app surfaces consensus instantly. No accounts, no data collected.
+
+**Next Vacation Calculator** — Enter your Swiss canton and get the exact upcoming school holiday dates for all of Switzerland.
+
+**FuelFinder** — PWA that finds the most profitable gas station by combining the actual fuel price with real travel cost into a single rentability score. Crowdsourced prices with a trust-score algorithm.
+
+**Interactive Projection Mapping** — A real-time mixed-reality system: a camera detects physical objects (Post-its) on a wall, a 2D physics engine simulates balls bouncing off them, and a projector renders the result directly onto the surface.
 
 ---
 
-3rd place, ICT Skills Romandy — 36th nationally (Skill 09, Software Application Development)
+## Skills
 
-[voirol.tech](https://voirol.tech) · [anthony@voirol.tech](mailto:anthony@voirol.tech)
+**Languages** — C# · PHP · JavaScript · Python · SQL · HTML · CSS
+
+**Tools & Systems** — Git · GitHub · GitLab · VS Code · Linux · MySQL
