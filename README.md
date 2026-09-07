@@ -12,13 +12,13 @@ Building web apps, tinkering with hardware projects, heading toward cybersecurit
 
 ## Projects
 
-| Project | Stack | Status |
+| Project | Stack |
 |---|---|---|
-| [CitySwipe](https://cityswipe.voirol.tech) | PHP · MySQL · Vanilla JS | Live |
-| [Taskly](https://taskly.voirol.tech) | PHP · MySQL · JS | Live |
-| [Next Vacation Calculator](https://vacances.voirol.tech) | HTML · CSS · JS · JSON | Live |
-| [Z-Axis Digital](https://z-axis.digital) | HTML · CSS · JS | Live |
-| [FuelFinder](https://github.com/AnthonyVoirol/fuelfinder) | Laravel · MySQL · Leaflet.js · PWA | On hold |
+| [CitySwipe](https://cityswipe.voirol.tech) | PHP · MySQL · Vanilla JS |
+| [Taskly](https://taskly.voirol.tech) | PHP · MySQL · JS |
+| [Next Vacation Calculator](https://vacances.voirol.tech) | HTML · CSS · JS · JSON |
+| [Z-Axis Digital](https://z-axis.digital) | HTML · CSS · JS |
+| [FuelFinder](https://github.com/AnthonyVoirol/fuelfinder) | Laravel · MySQL · Leaflet.js · PWA |
 | [Interactive Projection Mapping](https://github.com/AnthonyVoirol/mappingInteractif) | Python · OpenCV · Pymunk · Pygame | Experiment |
 | CFF Brake Calculator | JavaScript · HTML | Tool |
 
