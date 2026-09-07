@@ -22,18 +22,18 @@ Building web apps, tinkering with hardware projects, heading toward cybersecurit
 | [Interactive Projection Mapping](https://github.com/AnthonyVoirol/mappingInteractif) | Python · OpenCV · Pymunk · Pygame | Experiment |
 | CFF Brake Calculator | JavaScript · HTML | Tool |
 
-**CitySwipe** — Group activity picker using a real-time swipe-voting system. Multiple users join an ephemeral PIN room, swipe simultaneously, and the app surfaces consensus instantly. No accounts, no data collected.
+**CitySwipe** - Group activity picker using a real-time swipe-voting system. Multiple users join an ephemeral PIN room, swipe simultaneously, and the app surfaces consensus instantly. No accounts, no data collected.
 
-**Next Vacation Calculator** — Enter your Swiss canton and get the exact upcoming school holiday dates for all of Switzerland.
+**Next Vacation Calculator** - Enter your Swiss canton and get the exact upcoming school holiday dates for all of Switzerland.
 
-**FuelFinder** — PWA that finds the most profitable gas station by combining the actual fuel price with real travel cost into a single rentability score. Crowdsourced prices with a trust-score algorithm.
+**FuelFinder** - PWA that finds the most profitable gas station by combining the actual fuel price with real travel cost into a single rentability score. Crowdsourced prices with a trust-score algorithm.
 
-**Interactive Projection Mapping** — A real-time mixed-reality system: a camera detects physical objects (Post-its) on a wall, a 2D physics engine simulates balls bouncing off them, and a projector renders the result directly onto the surface.
+**Interactive Projection Mapping** - A real-time mixed-reality system: a camera detects physical objects (Post-its) on a wall, a 2D physics engine simulates balls bouncing off them, and a projector renders the result directly onto the surface.
 
 ---
 
 ## Skills
 
-**Languages** — C# · PHP · JavaScript · Python · SQL · HTML · CSS
+**Languages** - C# · PHP · JavaScript · Python · SQL · HTML · CSS
 
-**Tools & Systems** — Git · GitHub · GitLab · VS Code · Linux · MySQL
+**Tools & Systems** - Git · GitHub · GitLab · VS Code · Linux · MySQL
