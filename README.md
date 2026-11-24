@@ -14,7 +14,7 @@ Building web apps, tinkering with hardware projects, heading toward cybersecurit
 
 | Project | Stack | Category |
 | --- | --- | --- |
-| [CitySwipe](https://cityswipe.voirol.tech) | PHP · MySQL · Vanilla JS | Web App |
+| [CitySwipe](https://cityswipe.voirol.tech) | PHP · MySQL · JS | Web App |
 | [Taskly](https://taskly.voirol.tech) | PHP · MySQL · JS | Web App |
 | [Next Vacation Calculator](https://vacances.voirol.tech) | HTML · CSS · JS · JSON | Tool |
 | [Z-Axis Digital](https://z-axis.digital) | HTML · CSS · JS | Website |
