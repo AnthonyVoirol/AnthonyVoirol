@@ -18,7 +18,6 @@ Building web apps, tinkering with hardware projects, heading toward cybersecurit
 | [Taskly](https://taskly.voirol.tech) | PHP · MySQL · JS | Web App |
 | [Next Vacation Calculator](https://vacances.voirol.tech) | HTML · CSS · JS · JSON | Tool |
 | [Z-Axis Digital](https://z-axis.digital) | HTML · CSS · JS | Website |
-| [FuelFinder](https://github.com/AnthonyVoirol/fuelfinder) | Laravel · MySQL · Leaflet.js · PWA | Web App |
 | [Interactive Projection Mapping](https://github.com/AnthonyVoirol/mappingInteractif) | Python · OpenCV · Pymunk · Pygame | Experiment |
 | CFF Brake Calculator | JavaScript · HTML | Tool |
 
